@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d6de73d-8adc-4dab-acb9-74cb72c90106" name="Default Changelist" comment="first commit">
+    <list default="true" id="7d6de73d-8adc-4dab-acb9-74cb72c90106" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datadrivenframework/PageObject/AddWidget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datadrivenframework/PageObject/AddWidget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation.out" beforeDir="false" afterPath="$PROJECT_DIR$/automation.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/datadrivenframework/report/test10_12_2018_04_27_18.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/datadrivenframework/report/test11_12_2018_05_43_30.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/datadrivenframework/report/test11_12_2018_10_48_07.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/datadrivenframework/report/test11_12_2018_12_13_30.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/datadrivenframework/PageObject/AddWidget.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/datadrivenframework/PageObject/AddWidget.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/D__Automation Related_Sample Framework_DataDrivenFramework_src_test_java_com_datadrivenframework.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/D__Automation Related_Sample Framework_DataDrivenFramework_src_test_java_com_datadrivenframework.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/D__Automation Related_Sample Framework_DataDrivenFramework_src_test_java_com_datadrivenframework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/D__Automation Related_Sample Framework_DataDrivenFramework_src_test_java_com_datadrivenframework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.datadrivenframework.login.LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.datadrivenframework.login.LoginTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -55,7 +70,7 @@
         <counts>
           <entry key="class" value="39" />
           <entry key="config" value="2" />
-          <entry key="html" value="17" />
+          <entry key="html" value="18" />
           <entry key="iml" value="4" />
           <entry key="java" value="59" />
           <entry key="out" value="1" />
@@ -68,7 +83,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="39" />
-          <entry key="HTML" value="17" />
+          <entry key="HTML" value="18" />
           <entry key="IDEA_MODULE" value="4" />
           <entry key="Image" value="9" />
           <entry key="JAVA" value="59" />
@@ -82,7 +97,7 @@
           <entry key="html" value="4" />
           <entry key="java" value="3236" />
           <entry key="properties" value="32" />
-          <entry key="txt" value="12" />
+          <entry key="txt" value="33" />
           <entry key="xml" value="355" />
         </counts>
       </usages-collector>
@@ -90,7 +105,7 @@
         <counts>
           <entry key="HTML" value="4" />
           <entry key="JAVA" value="3236" />
-          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="PLAIN_TEXT" value="33" />
           <entry key="Properties" value="32" />
           <entry key="XML" value="355" />
         </counts>
@@ -114,8 +129,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/datadrivenframework/PageObject/AddWidget.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+            <state relative-caret-position="170">
+              <caret line="58" column="43" lean-forward="true" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -227,6 +242,16 @@
           <item name="datadrivenframework" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="datadrivenframework" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="datadrivenframework" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -295,15 +320,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="datadrivenframework" type="462c0819:PsiDirectoryNode" />
               <item name="PageObject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataDrivenFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataDrivenFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="datadrivenframework" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataDrivenFramework" type="b2602c69:ProjectViewProjectNode" />
@@ -430,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544531199051</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="checking the changes">
+      <created>1544534218538</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544534218538</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -469,7 +492,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23373677" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23373677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -478,13 +501,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.328594" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.24960506" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.24960506" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35545024" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.42338073" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.24960506" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.328594" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -502,14 +525,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="checking the changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="checking the changes" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/datadrivenframework/report/test04_12_2018_03_11_34.html" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/datadrivenframework/screenshot/blank_04_12_2018_03_06_25.png" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/datadrivenframework/login/Test_testng.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/datadrivenframework/report/test05_12_2018_12_40_27.html" />
@@ -758,10 +781,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/datadrivenframework/report/test11_12_2018_06_52_28.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="64" lean-forward="true" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/datadrivenframework/PageObject/AddWidget.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+        <state relative-caret-position="170">
+          <caret line="58" column="43" lean-forward="true" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
