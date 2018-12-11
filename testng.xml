@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="none">
+
+
+    <!--
+    <listeners>
+        <listener class-name="org.testng.reporters.EmailableReporter2" />
+        <listener class-name="org.testng.reporters.EmailableReporter2" />
+            <listener class-name="org.uncommons.reportng.HTMLReporter" /> <listener class-name="org.uncommons.reportng.JUnitXMLReporter"
+            /> <listener class-name="org.oed.pages.MyReporterListener" />
+
+        <listener class-name="org.oed.pages.CustomizedEmailableReport" />
+    </listeners> -->
+
+
+    <test verbose="2" preserve-order="true" name="D:/Automation Related/Sample Framework/DataDrivenFramework/src/test/java/com/datadrivenframework">
+        <classes>
+
+            <class name="com.datadrivenframework.login.LoginTest">
+                <methods>
+                    <include name="testLoginToApplication"/>
+                </methods>
+            </class>
+
+
+            <!--
+            <class name="com.datadrivenframework.Add_Widget.add_widget">
+                <methods>
+                    <include name="addwidget"/>
+                </methods>
+            </class>
+            -->
+
+
+        </classes>
+    </test>
+</suite>
