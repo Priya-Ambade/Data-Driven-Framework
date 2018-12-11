@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d6de73d-8adc-4dab-acb9-74cb72c90106" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation.out" beforeDir="false" afterPath="$PROJECT_DIR$/automation.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datadrivenframework/report/test10_12_2018_04_27_18.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datadrivenframework/report/test11_12_2018_05_43_30.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datadrivenframework/report/test11_12_2018_10_48_07.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datadrivenframework/report/test11_12_2018_12_13_30.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/datadrivenframework/PageObject/AddWidget.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/datadrivenframework/PageObject/AddWidget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/D__Automation Related_Sample Framework_DataDrivenFramework_src_test_java_com_datadrivenframework.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/D__Automation Related_Sample Framework_DataDrivenFramework_src_test_java_com_datadrivenframework.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/D__Automation Related_Sample Framework_DataDrivenFramework_src_test_java_com_datadrivenframework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/D__Automation Related_Sample Framework_DataDrivenFramework_src_test_java_com_datadrivenframework.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.datadrivenframework.login.LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.datadrivenframework.login.LoginTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7d6de73d-8adc-4dab-acb9-74cb72c90106" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -490,7 +472,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23373677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
