@@ -46,7 +46,7 @@ public class AddWidget {
 
 
     /* Functions/Mothods prresent on page */
-    /* checking the changes in github*/
+    /* checking the changes in github added few more*/
 
 
     public AddWidget(WebDriver driver) {
