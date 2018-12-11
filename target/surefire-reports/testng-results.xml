@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="33589" started-at="2018-12-11T06:43:31Z" finished-at="2018-12-11T06:44:04Z">
+    <groups>
+    </groups>
+    <test name="D:/Automation Related/Sample Framework/DataDrivenFramework/src/test/java/com/datadrivenframework" duration-ms="33589" started-at="2018-12-11T06:43:31Z" finished-at="2018-12-11T06:44:04Z">
+      <class name="com.datadrivenframework.login.LoginTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.datadrivenframework.login.LoginTest@27fe3806]" name="launchBrowser" is-config="true" duration-ms="4897" started-at="2018-12-11T12:13:31Z" finished-at="2018-12-11T12:13:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.datadrivenframework.login.LoginTest@27fe3806]" name="beforeMethod" is-config="true" duration-ms="634" started-at="2018-12-11T12:13:36Z" finished-at="2018-12-11T12:13:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.datadrivenframework.login.LoginTest.testLoginToApplication() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLoginToApplication()[pri:0, instance:com.datadrivenframework.login.LoginTest@27fe3806]" name="testLoginToApplication" duration-ms="25628" started-at="2018-12-11T12:13:36Z" finished-at="2018-12-11T12:14:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginToApplication -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.datadrivenframework.login.LoginTest@27fe3806]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-12-11T12:14:02Z" finished-at="2018-12-11T12:14:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLoginToApplication status=SUCCESS method=LoginTest.testLoginToApplication()[pri:0, instance:com.datadrivenframework.login.LoginTest@27fe3806] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.datadrivenframework.login.LoginTest@27fe3806]" name="endTest" is-config="true" duration-ms="2417" started-at="2018-12-11T12:14:02Z" finished-at="2018-12-11T12:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.datadrivenframework.login.LoginTest -->
+    </test> <!-- D:/Automation Related/Sample Framework/DataDrivenFramework/src/test/java/com/datadrivenframework -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

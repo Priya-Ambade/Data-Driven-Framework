@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [All Test Suite]">
+  <test name="D:/Automation Related/Sample Framework/DataDrivenFramework/src/test/java/com/datadrivenframework/login(failed)">
+    <classes>
+      <class name="com.datadrivenframework.login.LoginTest">
+        <methods>
+          <include name="testLoginToApplication"/>
+          <include name="afterMethod"/>
+          <include name="endTest"/>
+          <include name="launchBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.datadrivenframework.login.LoginTest -->
+    </classes>
+  </test> <!-- D:/Automation Related/Sample Framework/DataDrivenFramework/src/test/java/com/datadrivenframework/login(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

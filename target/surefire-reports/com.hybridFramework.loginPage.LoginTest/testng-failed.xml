@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.hybridFramework.loginPage.LoginTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.hybridFramework.loginPage.LoginTest">
+        <methods>
+          <include name="endTest"/>
+          <include name="afterMethod"/>
+          <include name="launchBrowser"/>
+          <include name="testLoginToApplication"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.hybridFramework.loginPage.LoginTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.hybridFramework.loginPage.LoginTest] -->
