@@ -1,5 +1,5 @@
-2018-12-11 18:52:28 INFO  TestBase:104 - loading config.properties
-2018-12-11 18:52:34 INFO  LoginTest:31 - com.datadrivenframework.login.LoginTest started
-2018-12-11 18:52:41 INFO  LoginPage:38 - username entered....testautomation
-2018-12-11 18:52:41 INFO  LoginPage:43 - password entered....testautomation
-2018-12-11 18:52:58 INFO  LoginPage:48 - Clicked on login button....
+2018-12-13 18:20:51 INFO  TestBase:118 - loading config.properties
+2018-12-13 18:20:57 INFO  LoginTest:33 - com.datadrivenframework.login.LoginTest started
+2018-12-13 18:21:04 INFO  LoginPage:38 - username entered....testautomation
+2018-12-13 18:21:05 INFO  LoginPage:43 - password entered....testautomation
+2018-12-13 18:21:19 INFO  LoginPage:48 - Clicked on login button....

@@ -15,7 +15,7 @@ public class add_widget extends TestBase {
 
 
 	@Test
-	public void addwidget() throws InterruptedException {
+	public void addwidgettodashboard() throws InterruptedException {
 		log.info(add_widget.class.getName()+" started");
 
 		Config config = new Config(OR);

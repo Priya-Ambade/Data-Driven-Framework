@@ -73,19 +73,21 @@
                             <failonerror>true</failonerror>
 
                             <!-- host -->
-                            <mailhost>smtp.persistent.com</mailhost>
+                            <mailhost>hj-relay.persistent.co.in</mailhost>
                             <!-- port of the host -->
-                            <mailport>80</mailport>
+                            <mailport>25</mailport>
+
+
                             <mailssl>true</mailssl>
                             <mailAltConfig>true</mailAltConfig>
 
                             <!-- Email Authentication(USername and Password) -->
-                            <mailuser>priya_ambade@persistent.com</mailuser>
+                            <mailuser>priya_ambade@persistent.co.in</mailuser>
                             <mailpassword>Octomber-2018</mailpassword>
 
                             <receivers>
                                 <!-- To Email address -->
-                                <receiver>priya_ambade@persistent.com</receiver>
+                                <receiver>priya_ambade@persistent.co.in</receiver>
                             </receivers>
 
                             <fileSets>

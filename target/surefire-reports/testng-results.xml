@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="All Test Suite" duration-ms="37722" started-at="2018-12-11T13:22:28Z" finished-at="2018-12-11T13:23:06Z">
+  <suite name="All Test Suite" duration-ms="35018" started-at="2018-12-13T12:50:51Z" finished-at="2018-12-13T12:51:26Z">
     <groups>
     </groups>
-    <test name="D:/Automation Related/Sample Framework/DataDrivenFramework/src/test/java/com/datadrivenframework" duration-ms="37722" started-at="2018-12-11T13:22:28Z" finished-at="2018-12-11T13:23:06Z">
+    <test name="D:/Automation Related/Sample Framework/DataDrivenFramework/src/test/java/com/datadrivenframework" duration-ms="35018" started-at="2018-12-13T12:50:51Z" finished-at="2018-12-13T12:51:26Z">
       <class name="com.datadrivenframework.login.LoginTest">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.datadrivenframework.login.LoginTest@27fe3806]" name="launchBrowser" is-config="true" duration-ms="4925" started-at="2018-12-11T18:52:28Z" finished-at="2018-12-11T18:52:33Z">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.datadrivenframework.login.LoginTest@27fe3806]" name="launchBrowser" is-config="true" duration-ms="4685" started-at="2018-12-13T18:20:51Z" finished-at="2018-12-13T18:20:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.datadrivenframework.login.LoginTest@27fe3806]" name="beforeMethod" is-config="true" duration-ms="627" started-at="2018-12-11T18:52:33Z" finished-at="2018-12-11T18:52:34Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.datadrivenframework.login.LoginTest@27fe3806]" name="beforeMethod" is-config="true" duration-ms="596" started-at="2018-12-13T18:20:56Z" finished-at="2018-12-13T18:20:57Z">
           <params>
             <param index="0">
               <value>
@@ -22,11 +22,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="testLoginToApplication()[pri:0, instance:com.datadrivenframework.login.LoginTest@27fe3806]" name="testLoginToApplication" duration-ms="29175" started-at="2018-12-11T18:52:34Z" finished-at="2018-12-11T18:53:03Z">
+        <test-method status="PASS" signature="testLoginToApplication()[pri:0, instance:com.datadrivenframework.login.LoginTest@27fe3806]" name="testLoginToApplication" duration-ms="27111" started-at="2018-12-13T18:20:57Z" finished-at="2018-12-13T18:21:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginToApplication -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.datadrivenframework.login.LoginTest@27fe3806]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-12-11T18:53:03Z" finished-at="2018-12-11T18:53:03Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.datadrivenframework.login.LoginTest@27fe3806]" name="afterMethod" is-config="true" duration-ms="2342" started-at="2018-12-13T18:21:24Z" finished-at="2018-12-13T18:21:26Z">
           <params>
             <param index="0">
               <value>
@@ -37,7 +37,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:com.datadrivenframework.login.LoginTest@27fe3806]" name="endTest" is-config="true" duration-ms="2982" started-at="2018-12-11T18:53:03Z" finished-at="2018-12-11T18:53:06Z">
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.datadrivenframework.login.LoginTest@27fe3806]" name="endTest" is-config="true" duration-ms="267" started-at="2018-12-13T18:21:26Z" finished-at="2018-12-13T18:21:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->

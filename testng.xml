@@ -23,15 +23,14 @@
                 </methods>
             </class>
 
-
-            <!--
+<!--
             <class name="com.datadrivenframework.Add_Widget.add_widget">
                 <methods>
                     <include name="addwidget"/>
                 </methods>
             </class>
-            -->
 
+-->
 
         </classes>
     </test>

@@ -29,7 +29,7 @@ import java.util.concurrent.TimeUnit;
 public class TestBase {
 
     public static final Logger logger = Logger.getLogger(TestBase.class.getName());
-    public WebDriver driver;
+    public static WebDriver driver;
     public static Properties OR;
     public File f1;
     public FileInputStream file;
@@ -45,8 +45,22 @@ public class TestBase {
         extent = new ExtentReports(System.getProperty("user.dir") + "/src/main/java/com/datadrivenframework/report/test" + formater.format(calendar.getTime()) + ".html", false);
     }
 
+    /*
+            @BeforeSuite
+            @BeforeGroups
+            @BeforeTest
+            @BeforeClass
+            @BeforeMethod
+            @Test (Test case 1)
+            @AfterMethod
+            @AfterClass
+            @AfterTest
+            @AfterGroups
+            @AfterSuite
 
-    @BeforeTest
+     */
+
+    @BeforeClass
     public void launchBrowser(){
         try {
             loadPropertiesFile();
@@ -150,6 +164,7 @@ public class TestBase {
         }
     }
 
+
     @BeforeMethod()
     public void beforeMethod(Method result) {
         test = extent.startTest(result.getName());
@@ -158,19 +173,24 @@ public class TestBase {
         Excel_reader.getData(result.getName());
     }
 
+
     @AfterMethod()
     public void afterMethod(ITestResult result) throws IOException {
         getresult(result);
-//        driver.close();
+        driver.close();
     }
 
     @AfterClass(alwaysRun = true)
     public void endTest() {
-        driver.close();
         extent.endTest(test);
         extent.flush();
+//        driver.close();
     }
 
+/*    @AfterTest
+    public void aftertest(){
+    }
+*/
 
     public WebElement getLocator(String locator) throws Exception {
         //System.out.println(locator);

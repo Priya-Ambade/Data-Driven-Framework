@@ -12,7 +12,7 @@ import org.testng.Assert;
 public class AddWidget {
 
     WebDriver driver;
-    private final Logger log = TestBase.LoggerHelper.getLogger(LoginPage.class);
+    private final Logger log = TestBase.LoggerHelper.getLogger(AddWidget.class);
 
     @FindBy(xpath="//input[@name='j_username']")
     WebElement txt_username;
